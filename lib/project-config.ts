@@ -1,7 +1,7 @@
 export const projectConfig = {
   gameUrl: "https://cryptominespacexv2.netlify.app/",
   farmUrl: "https://cryptominespacex.netlify.app/",
-  tokenUrl: "https://pump.fun/coin/Nnoq5ePjnS69BNcdDQMgHzLP74LA6ndPiz8NCf5pump",
+  tokenUrl: "https://pump.fun/coin/Nnoq5ePjnS69BNcdDQMgHzLP74LA6ndPiz8NCf5pump?highlight_holder=AUsecA7bS7V599DfWCaRkWTS7b1Gxn2SR8DcqcSsovLm",
   community: { x: "", discord: "", telegram: "", github: "" },
 } as const
 
